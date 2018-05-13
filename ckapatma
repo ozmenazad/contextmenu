@@ -4,3 +4,4 @@ hook.Add("ContextMenuOpen", "SuperAdminContext", function()
 
 end)
 -- Put this in darkrp_modules folder or lua-autorun-server
+--Bunu darkrp_modules yada lua-autorun-server dizinine yükleyin.
